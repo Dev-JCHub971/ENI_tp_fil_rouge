@@ -1,0 +1,9 @@
+{
+  "name": "eni/tp-fil-rouge",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}

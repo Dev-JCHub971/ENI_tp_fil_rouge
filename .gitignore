@@ -1,9 +1,4 @@
-.env
-.vscode/
-.idea/
+/vendor/
 .DS_Store
-Thumbs.db
-node_modules/
-vendor/
-*.log
-*.tmp
+.idea
+/config/config.ini
